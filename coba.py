@@ -1,0 +1,2 @@
+a = ['iqbal', 'budi','jirno']
+
